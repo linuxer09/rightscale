@@ -13,7 +13,6 @@ rightscale_marker
 log "Installing PHP"
 
 package "php" do
-  arch x86_64
   action :install
 end
 
