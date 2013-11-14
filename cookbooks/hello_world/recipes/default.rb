@@ -9,7 +9,5 @@
 
 rightscale_marker
 
-log "First Log!"
-
-end 
+log "Hello World!"
 
